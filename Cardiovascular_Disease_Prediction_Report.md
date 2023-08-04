@@ -32,21 +32,18 @@ The feature importances of the Random Forest model were analyzed to identify the
 
 ## Conclusion
 
-In conclusion, this project successfully developed and evaluated machine learning models for cardiovascular disease prediction. The Support Vector Machine demonstrated the highest accuracy, making it a strong candidate for deployment in real-world scenarios. The Random Forest model also exhibited competitive performance and provides valuable insights through feature importances.
+In conclusion, this project successfully developed and evaluated machine learning models for cardiovascular disease prediction. The Support Vector Machine demonstrated the highest accuracy, making it a strong candidate for deployment in real-world scenarios. The Random Forest model also exhibited competitive performance and provides valuable insights through feature importance.
 
-However, there is room for further improvement and exploration. Future work may involve collecting additional relevant data, fine-tuning model hyperparameters, and experimenting with other advanced machine learning techniques.
+However, there is room for further improvement and exploration. Future work may involve collecting additional relevant data, fine-tuning model hyperparameters, and experimenting with other advanced machine-learning techniques.
 
 The developed model can serve as a valuable tool in identifying individuals at risk of cardiovascular disease, enabling timely interventions and personalized healthcare strategies. It is important to ensure rigorous validation and testing before deploying the model in clinical or practical settings.
 
-For a more detailed analysis and visualizations, please refer to the [complete report](link_to_full_report.pdf).
-
 ---
-
-*Note: This report provides a concise overview of the project. For more extensive analysis and visualizations, refer to the full report linked above.*
 
 Thank you for reading this report. If you have any questions or need further information, please feel free to contact us.
 
-*Project Team: Naman Agarwal, AI June'23 Batch*
+*Project Team No:10
+Naman Agarwal, AI June'23 Batch*
 
 ---
 
