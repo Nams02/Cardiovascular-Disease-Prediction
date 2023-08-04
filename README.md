@@ -6,7 +6,7 @@
 Cardiovascular disease, also known as heart disease, is a major global health concern. This project aims to develop an accurate machine-learning model to predict the presence of cardiovascular disease based on various risk factors and attributes.
 
 ## Dataset
-The dataset used for this project contains a comprehensive set of features related to heart health, collected from real-world patient data. The data preprocessing steps and exploratory data analysis can be found in the Jupyter Notebook [here](link_to_notebook.ipynb).
+The dataset used for this project contains a comprehensive set of features related to heart health, collected from real-world patient data. The data preprocessing steps and exploratory data analysis can be found in the Jupyter Notebook [here](main.ipynb).
 
 ## Dependencies
 Make sure you have the following Python libraries installed to run the project:
