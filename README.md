@@ -26,7 +26,7 @@ To run the model and obtain predictions, execute the `predict.py` script after i
 I have compared the performance of various machine learning algorithms, such as Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Decision Trees (DT), Logistic Regression (LR), and Random Forest (RF). The best-performing model, along with its evaluation metrics, is included in the Jupyter Notebook.
 
 ## Results
-My final model achieves an accuracy of X% in predicting cardiovascular disease presence. It is essential to note that this model should not be used as a substitute for professional medical advice.
+My final model achieves an accuracy of 73.19% in predicting cardiovascular disease presence. It is essential to note that this model should not be used as a substitute for professional medical advice. For a more detailed analysed conclusion report, please refer to the [complete report](Cardiovascular_Disease_Prediction_Report.md).
 
 ## Contributing
 I welcome contributions to enhance the model's performance or explore additional features. Feel free to open issues or submit pull requests.
