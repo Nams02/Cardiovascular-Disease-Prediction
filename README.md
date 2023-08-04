@@ -1,6 +1,6 @@
 # Cardiovascular Disease Prediction using Machine Learning
 
-![Heart](heart_image.jpg)
+![Heart](heart_image.png)
 
 ## Introduction
 Cardiovascular disease, also known as heart disease, is a major global health concern. This project aims to develop an accurate machine-learning model to predict the presence of cardiovascular disease based on various risk factors and attributes.
